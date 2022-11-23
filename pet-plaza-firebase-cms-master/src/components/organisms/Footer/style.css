@@ -1,0 +1,9 @@
+.footer-style{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-color: #fff !important;
+    color: #CDCDCD !important;
+    font-size: 13 !important;
+    height: 7vh !important;
+}

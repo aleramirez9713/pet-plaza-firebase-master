@@ -1,0 +1,29 @@
+.image-data{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.button-update{
+    display: flex !important;
+    justify-content: flex-end !important;
+    padding-bottom: 10px;
+}
+
+.description-data{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+}
+
+.description-horaries{
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 60px;
+}
+
+.horaries-vet{
+    padding: 10px;
+    padding-bottom: 0px;
+}

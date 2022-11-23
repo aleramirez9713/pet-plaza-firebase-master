@@ -1,0 +1,13 @@
+export { default as Header1 } from "./Header";
+export { default as Footer } from "./Footer";
+export { default as Content } from "./Content/Body";
+export { default as SideMenu } from "./Content/SideMenu";
+export { default as DrawerMenu } from "./Content/DrawerMenu";
+export { default as ModalForm } from "./Content/ModalForm";
+export { default as NoData } from "./Content/NoData";
+export { default as ModalInfo } from "./Content/InfoModal";
+export { default as ContentImagesCards } from "./Content/ContentImagesCards";
+export { default as ContentDetailsCards } from "./Content/ContentDetailsCards";
+export { default as ModalMap } from "./Content/ModalMap";
+export { default as ContentTable } from "./Content/ContentTable";
+export { default as ModalTable } from "./Content/ModalTable";

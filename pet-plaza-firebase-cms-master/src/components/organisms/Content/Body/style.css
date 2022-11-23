@@ -1,0 +1,14 @@
+.body-content-login {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+.body-content-page {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 78vh;
+}

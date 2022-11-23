@@ -1,0 +1,11 @@
+.scroll-card {
+  height: 250px !important;
+  width: 250px !important;
+  overflow: scroll !important;
+}
+.list-scroll {
+  width: 200px !important;
+}
+.scroll-card::-webkit-scrollbar {
+  display: none;
+}

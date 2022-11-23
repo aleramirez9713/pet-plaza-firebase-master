@@ -1,0 +1,9 @@
+.search-auto-complete{
+    width: 400px
+}
+
+@media screen and (max-width: 600px) {
+    .search-auto-complete{
+       width: 200px;
+    }
+  }

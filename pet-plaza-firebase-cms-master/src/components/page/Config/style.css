@@ -1,0 +1,32 @@
+.config-content{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 80%;
+    height: 80%;
+    overflow: scroll !important;
+}
+
+.config-image{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: flex-end !important;
+    padding-bottom: 30px;
+    width: 100%;
+    height: 30%;
+}
+
+.image-profile{
+    width: 50%;
+    height: 30%;
+    border-radius: 80px;
+}
+
+.config-text{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+    width: 100%;
+    height: 70%;
+}

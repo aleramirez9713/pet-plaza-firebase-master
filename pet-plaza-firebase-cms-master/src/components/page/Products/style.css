@@ -1,0 +1,41 @@
+.pictures-products {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px !important;
+}
+.border-cards {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 10px;
+}
+.Scroll-card {
+  height: 87% !important;
+  overflow-y: scroll;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.content-products {
+  display: flex;
+  flex-direction: column;
+  height: 100% !important;
+  width: 100% !important;
+  padding: 20px;
+}
+.button-new-product {
+  text-align: end;
+  padding: 5px !important;
+}
+.header-products{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100%;
+}

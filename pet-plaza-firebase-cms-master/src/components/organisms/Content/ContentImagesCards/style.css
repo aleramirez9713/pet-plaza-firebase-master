@@ -1,0 +1,39 @@
+.pictures-content {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px !important;
+}
+.content-page {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  height: 100% !important;
+  width: 99% !important;
+  padding: 10px;
+}
+.button-new {
+  text-align: end;
+  padding: 10px !important;
+}
+.border-cards {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 10px;
+}
+.Scroll-card {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 87% !important;
+  overflow-y: scroll;
+  padding-left: 30px;
+  padding-right: 30px;
+}

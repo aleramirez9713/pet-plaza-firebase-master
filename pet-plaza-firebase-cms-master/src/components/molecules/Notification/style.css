@@ -1,0 +1,19 @@
+.without-notifications{
+    color: #d8d8d8
+}
+
+.card-notification{
+    width: 250px;
+    border: 1px solid #646464;
+    border-style: inset;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.title-notification{
+    font-size: large;
+}
+
+.text-notification{
+    white-space: initial;
+}

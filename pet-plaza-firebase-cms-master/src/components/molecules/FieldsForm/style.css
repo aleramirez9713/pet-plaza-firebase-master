@@ -1,0 +1,11 @@
+.style-form-list-items{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+}
+
+.style-form-list-fiels{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+}

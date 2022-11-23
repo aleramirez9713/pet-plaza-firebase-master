@@ -1,0 +1,12 @@
+.card-recovery-password{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+    width: 300px !important;
+    height: 550px !important;
+}
+
+.alert-message{
+    width: 400px;
+}

@@ -1,0 +1,25 @@
+.search-content{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+    margin-top: 50px;
+  }
+  .content-header{
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: white;
+  }
+
+@media screen and (max-width: 1080px) {
+  .search-content{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+    justify-content: space-between !important;
+    max-width: 100%;
+    height: 100px;
+    padding: 5px;
+  }
+}

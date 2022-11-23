@@ -1,0 +1,39 @@
+.border-cards {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 10px;
+}
+.Scroll-card {
+  height: 87% !important;
+  overflow-y: scroll;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.section-error {
+  font-weight: bold;
+  font-size: 30px;
+  color: gray;
+}
+.pictures-categories {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 250px !important;
+}
+@media screen and (max-width: 1100px) {
+  .border-cards {
+    padding: 15px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .border-cards {
+    padding: 15px;
+  }
+}

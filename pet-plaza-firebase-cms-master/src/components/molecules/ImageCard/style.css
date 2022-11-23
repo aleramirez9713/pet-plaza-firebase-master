@@ -1,0 +1,40 @@
+.button-view-image{
+    position: absolute;
+    text-transform:uppercase;
+    top: 10px;
+    padding: 5px;
+    padding-right: 15px;
+    border-radius: 100px;
+}
+.align-button-view{
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+.align-button-play{
+    display: flex !important;
+    justify-content: center !important;
+}
+.button-play{
+    position: absolute;
+    text-transform:uppercase;
+    top: 100px;
+    padding: 5px;
+    padding-right: 15px;
+    border-radius: 100px;
+}
+.icon-font{
+    font-size: 25px !important;
+    font-weight: bolder !important;
+}
+.icon-font-play{
+    font-size: 50px !important;
+    font-weight: bolder !important;
+}
+.color-font{
+    color: white;
+}
+
+.images-image-card{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,22 @@
+.info-vet-apointment{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.info-general-apointment{
+    padding: 20px;
+}
+
+.image-apointment{
+    height: 350px;
+    width: 350px;
+}
+
+.move-apointment{
+    padding: 10px;
+    width: 100%;
+    display: flex !important;
+    justify-content: space-between !important;
+}

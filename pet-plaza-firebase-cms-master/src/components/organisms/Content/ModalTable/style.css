@@ -1,0 +1,12 @@
+.button-add{
+  padding: 15px;
+  padding-bottom: 0px;
+  text-align: end;
+}
+.search-section{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  padding: 10px;
+  padding-top: 0px;
+}

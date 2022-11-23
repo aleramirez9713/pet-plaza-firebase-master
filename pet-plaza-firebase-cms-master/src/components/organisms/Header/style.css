@@ -1,0 +1,33 @@
+.header-lv1 {
+  display: flex !important;
+  justify-content: space-between !important;
+  background-color: #fff !important;
+  align-items: center !important;
+  height: 14% !important;
+  width: 100% !important;
+}
+.header-logo{
+  padding: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.div-buttons{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-radius: 100px;
+  height: 40px;
+}
+.div-buttons:hover{
+  background: rgb(206, 206, 206);
+}
+.col-lv1 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.icon-size{
+  font-size: 25px !important;
+  color: #000 !important;
+}
+

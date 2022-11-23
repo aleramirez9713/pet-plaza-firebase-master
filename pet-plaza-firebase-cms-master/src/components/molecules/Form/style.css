@@ -1,0 +1,39 @@
+.upload-position{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-right: 80px !important;
+    padding-left: 80px !important;
+}
+.upload-position-xl{
+    display: flex !important;
+    justify-content: center !important;
+    padding-right: 80px !important;
+    padding-left: 80px !important;
+}
+.fields-form-with-image{
+    display: flex !important;
+    flex-direction: column;
+    justify-content: flex-end !important;
+    padding-left: 25px;
+}
+.fields-form{
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-left: 5px;
+}
+.buttons-form{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100%;
+}
+.modal-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}

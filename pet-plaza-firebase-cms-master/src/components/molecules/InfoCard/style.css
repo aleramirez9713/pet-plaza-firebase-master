@@ -1,0 +1,23 @@
+.text-button {
+  width: 120px !important;
+  text-align: center;
+  white-space: pre-wrap;
+}
+.description-card {
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+  height: 100% !important;
+  width: 100% !important;
+  overflow-x: scroll !important;
+}
+
+@media screen and (max-width: 1100px) {
+  .description-card {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+    height: 100% !important;
+    max-width: 100% !important;
+  }
+}

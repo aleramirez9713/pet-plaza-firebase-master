@@ -1,0 +1,20 @@
+.my-row-style {
+  width: 100%;
+}
+.my-col-style {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.popover {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 150px;
+  height: 100%;
+}
+
+.my-footer-style {
+  text-align: center;
+}

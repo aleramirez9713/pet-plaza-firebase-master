@@ -1,0 +1,12 @@
+.style-extra-section{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.style-form{
+    padding-top: 80px;
+}
+
+.style-form-2{
+    padding-top: 10px;
+}

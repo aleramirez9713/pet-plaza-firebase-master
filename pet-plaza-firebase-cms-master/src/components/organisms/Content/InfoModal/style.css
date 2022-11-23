@@ -1,0 +1,42 @@
+.size-cards {
+  height: 100%;
+  padding: 15px;
+}
+
+.content-description-modal {
+  padding: 15px;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-around !important;
+  align-items: center !important;
+}
+.cell{
+  padding: 10px;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-evenly !important;
+  align-items: center !important;
+}
+.label-cell{
+  font-weight: bolder;
+  font-size: medium;
+}
+.scroll-card {
+  height: 150px;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+.scroll-card::-webkit-scrollbar {
+    display: none;
+}
+
+@media screen and (max-width: 900px){
+  .content-description {
+    padding: 15px;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+}

@@ -1,0 +1,9 @@
+.content-loading{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.size-icon{
+    font-size: 80px !important;
+}

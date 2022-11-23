@@ -1,0 +1,13 @@
+:root {
+  --size: 300px;
+  --percentage: 87%;
+  --percentagefull: 100%;
+}
+.content-space-full {
+  height: var(--percentagefull) !important;
+  width: var(--percentagefull) !important;
+}
+.buttons-edit-clear {
+  padding: 10px;
+  text-align: end;
+}

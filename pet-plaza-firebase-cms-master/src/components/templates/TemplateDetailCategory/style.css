@@ -1,0 +1,9 @@
+
+.content-space {
+  display: flex;
+  justify-content: center;
+  height: 87%;
+  width: 100% !important;
+  overflow-y: scroll;
+}
+

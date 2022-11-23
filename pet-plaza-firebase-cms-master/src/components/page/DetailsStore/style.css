@@ -1,0 +1,26 @@
+.scroll-y-section-store-details{
+    overflow-y: scroll;
+    height: 84%;
+    width: 100%;
+}
+.content-store-full{
+    display: flex !important;
+    justify-content: center !important;
+    height: 100%;
+    width: 100%;
+}
+
+.content-details-store-full{
+    display: flex !important;
+    justify-content: center !important;
+    padding: 50px;
+    padding-left: 30px;
+}
+
+.content-edit-delete-store{
+    text-align: end !important;
+    padding: 15px !important;
+}
+.list-horaries{
+    text-align: start !important;
+}

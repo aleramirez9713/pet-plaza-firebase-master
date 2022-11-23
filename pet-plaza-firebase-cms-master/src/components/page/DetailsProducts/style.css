@@ -1,0 +1,54 @@
+.mini-image {
+  object-fit: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+}
+
+.content-product-full{
+    height: 100%;
+    width: 100%;
+}
+
+.content-edit-delete{
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+  padding: 15px !important;
+}
+
+.scroll-y-section-product{
+    overflow-y: scroll;
+    height: 84%;
+    width: 100%;
+}
+
+.content-col {
+  padding: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.description-card {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  justify-content: flex-start;
+  width: 450px !important;
+  height: 80px !important;
+}
+
+.content-description{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+
+.description-card::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,17 @@
+.content-orders {
+  padding: 10px;
+  width: 170vh;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
+
+@media screen and (max-width: 1080px) and (min-width: 900px){
+  .content-orders {
+    padding: 10px;
+    width: 110vh;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: scroll;
+  }
+}
